@@ -1,6 +1,8 @@
 # Quiz
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
+![Screenshot (389)](https://user-images.githubusercontent.com/64727650/180635849-acd1e58d-e7b5-436f-b518-a02542074638.png)
+![Screenshot (392)](https://user-images.githubusercontent.com/64727650/180635894-de2dae93-bd73-44e1-a552-fa54dfeba722.png)
 
 ## Development server
 
